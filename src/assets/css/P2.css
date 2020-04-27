@@ -1,0 +1,9 @@
+.input-title {
+  padding: 10px;
+  color: #fff;
+  background-color: var(--edivers);
+}
+
+.input-bg {
+  background-color: rgba(0, 0, 0, 0.1) !important;
+}
